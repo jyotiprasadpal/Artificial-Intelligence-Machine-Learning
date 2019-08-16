@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Machine-Learning
+# Machine-Learning-In-Python
 Source of useful resources for Artificial Intelligence and Machine learning
 
 ### Prerequisites

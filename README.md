@@ -23,13 +23,13 @@ Resources demonstrating NumPy functionality.
 
 Resources demonstrating pandas functionality.
 
-| Link | Description |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Top 8 resources for learning data analysis with pandas](https://www.dataschool.io/best-python-pandas-resources/) | Top 8 resources for learning data analysis with pandas |
-| [Video-Easier data analysis in Python with pandas (video series)](https://www.dataschool.io/easier-data-analysis-with-pandas/) | Easier data analysis in Python with pandas (video series) |
-| [Video - pycon-2019-tutorial](https://github.com/justmarkham/pycon-2019-tutorial) | pycon-2019-tutorial |
-| [Pdf - Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) | Data Wrangling with pandas Cheat Sheet |
-| [Github - Pandas Exercises](https://github.com/guipsamora/pandas_exercises) | Pandas Exercises |
+| Link | Content Type | Description |
+|-----------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Top 8 resources for learning data analysis with pandas](https://www.dataschool.io/best-python-pandas-resources/) | Miscellaneous |  Top 8 resources for learning data analysis with pandas |
+| [Easier data analysis in Python with pandas (video series)](https://www.dataschool.io/easier-data-analysis-with-pandas/) | Video | Easier data analysis in Python with pandas (video series) |
+| [pycon-2019-tutorial](https://github.com/justmarkham/pycon-2019-tutorial) | Video | pycon-2019-tutorial |
+| [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) | pdf | Data Wrangling with pandas Cheat Sheet |
+| [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) | Github | Pandas Exercises |
 
 <br/>
 <p align="center">

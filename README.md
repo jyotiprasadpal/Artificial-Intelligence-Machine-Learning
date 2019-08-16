@@ -14,9 +14,9 @@ Resources demonstrating NumPy functionality.
 |-----------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Jake VanderPlas: Fast Numerical Computing with NumPy](https://www.youtube.com/watch?v=EEUXKG97YRw, ) | Video |  |
 | [Jake VanderPlas: Fast Numerical Computing with NumPy](https://speakerdeck.com/jakevdp/losing-your-loops-fast-numerical-computing-with-numpy-pycon-2015) | Presentation |  |
-| [Intro to Numerical Computing with NumPy (Beginner) | SciPy 2018 Tutorial | Alex Chabot-Leclerc](https://www.youtube.com/watch?v=V0D2mhVt7NE) | Video |  |
-| [Intro to Numerical Computing with NumPy (Beginner) | SciPy 2018 Tutorial | Alex Chabot-Leclerc](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2018) | GitHub |  |
-| [Intro to Numerical Computing with NumPy (Beginner) | SciPy 2018 Tutorial | Alex Chabot-Leclerc](https://scipy2018.scipy.org/ehome/299527/648136/index9a04.html?%26) | Presentation |  |
+| [Intro to Numerical Computing with NumPy (Beginner) SciPy 2018 Tutorial Alex Chabot-Leclerc](https://www.youtube.com/watch?v=V0D2mhVt7NE) | Video |  |
+| [Intro to Numerical Computing with NumPy (Beginner)  SciPy 2018 Tutorial  Alex Chabot-Leclerc](https://github.com/enthought/Numpy-Tutorial-SciPyConf-2018) | GitHub |  |
+| [Intro to Numerical Computing with NumPy (Beginner)  SciPy 2018 Tutorial  Alex Chabot-Leclerc](https://scipy2018.scipy.org/ehome/299527/648136/index9a04.html?%26) | Presentation |  |
 | [Scott Shell](https://sites.engineering.ucsb.edu/~shell/che210d/numpy.pdf) | Pdf |  |
 | [100 numpy exercises](https://github.com/rougier/numpy-100) | Github |  |
 | [NumPy Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/numpy/index.php) |  |  |

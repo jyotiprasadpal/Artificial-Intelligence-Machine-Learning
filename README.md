@@ -30,7 +30,7 @@ Source of useful resources for Artificial Intelligence and Machine learning
 
 Resources demonstrating NumPy functionality.
 
-| Link | Content Type |
+| Link <img width=350/> | Content Type <img width=50/> |
 |-----------------------------------------------------------------|---------------------------------------------------------------|
 | [Jake VanderPlas: Fast Numerical Computing with NumPy](https://www.youtube.com/watch?v=EEUXKG97YRw, ) | Video |
 | [Jake VanderPlas: Fast Numerical Computing with NumPy](https://speakerdeck.com/jakevdp/losing-your-loops-fast-numerical-computing-with-numpy-pycon-2015) | Presentation |
@@ -50,7 +50,7 @@ Resources demonstrating NumPy functionality.
 
 Resources demonstrating pandas functionality.
 
-| Link | Content Type |
+| Link <img width=350/> | Content Type <img width=50/> |
 |-----------------------------------------------------------------|---------------------------------------------------------------|
 | [Top 8 resources for learning data analysis with pandas](https://www.dataschool.io/best-python-pandas-resources/) | Miscellaneous |
 | [Easier data analysis in Python with pandas (video series)](https://www.dataschool.io/easier-data-analysis-with-pandas/) | Video |
@@ -67,7 +67,7 @@ Resources demonstrating pandas functionality.
 
 Resources demonstrating matplotlib functionality.
 
-| Link | Content Type |
+| Link <img width=350/> | Content Type <img width=50/> |
 |-----------------------------------------------------------------|---------------------------------------------------------------|
 | [Anatomy of Matplotlib (Beginner Level)  SciPy 2018 Tutorial  Benjamin Root & Hannah Aizenman](https://www.youtube.com/watch?v=6gdNUDs6QPc&t=2608s)|Video|
 | [Anatomy of Matplotlib -- tutorial developed for the SciPy conference](https://github.com/matplotlib/AnatomyOfMatplotlib)|Github|

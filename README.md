@@ -30,7 +30,7 @@ Source of useful resources for Artificial Intelligence and Machine learning
 
 Resources demonstrating NumPy functionality.
 
-| Link <img width=350/> | Content Type <img width=50/> |
+| Link <img width=400/> | Content Type <img width=50/> |
 |-----------------------------------------------------------------|---------------------------------------------------------------|
 | [Jake VanderPlas: Fast Numerical Computing with NumPy](https://www.youtube.com/watch?v=EEUXKG97YRw, ) | Video |
 | [Jake VanderPlas: Fast Numerical Computing with NumPy](https://speakerdeck.com/jakevdp/losing-your-loops-fast-numerical-computing-with-numpy-pycon-2015) | Presentation |
@@ -50,7 +50,7 @@ Resources demonstrating NumPy functionality.
 
 Resources demonstrating pandas functionality.
 
-| Link <img width=350/> | Content Type <img width=50/> |
+| Link <img width=350*/> | Content Type <img width=50/> |
 |-----------------------------------------------------------------|---------------------------------------------------------------|
 | [Top 8 resources for learning data analysis with pandas](https://www.dataschool.io/best-python-pandas-resources/) | Miscellaneous |
 | [Easier data analysis in Python with pandas (video series)](https://www.dataschool.io/easier-data-analysis-with-pandas/) | Video |
@@ -73,3 +73,71 @@ Resources demonstrating matplotlib functionality.
 | [Anatomy of Matplotlib -- tutorial developed for the SciPy conference](https://github.com/matplotlib/AnatomyOfMatplotlib)|Github|
 | [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)|Github|
 
+### Machine learning
+
+**Machine Learning - Andrew Ng**
+  * [Machine Learning|Lecture Collection - Andrew Ng](https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599)
+  * [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning?authMode=login)   
+
+**Machine Learning A-Z™: Hands-On Python & R In Data Science - Udemy**
+  * [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/)
+  * [Machine Learning A-Z: Download Practice Datasets](https://www.superdatascience.com/pages/machine-learning)
+  * [github: Machine-Learning-A-Z-Udemy](https://github.com/tanvirrazin/Machine-Learning-A-Z-Udemy)
+   
+**Data school - Kevin**  
+  * [In-depth introduction to machine learning in 15 hours of expert videos](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+  * [Video-github: Machine Learning in Python with scikit-learn](https://github.com/justmarkham/scikit-learn-videos)
+  * [Video-Machine Learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)    
+  * [Video-Machine Learning with Text in Python](https://www.dataschool.io/learn/)
+
+**NPTEL**
+  * [Introduction to Machine Learning - Prof. Sudeshna Sarkar,IIT Kharagpur](https://nptel.ac.in/courses/106106139/)
+  * [Introduction to Machine Learning - Prof. Balaraman Ravindran,IIT Madras](https://nptel.ac.in/courses/106106139/)
+  * [Deep Learning - Mitesh M. Khapra, IIT Madras](https://nptel.ac.in/noc/individual_course.php?id=noc18-cs41)
+
+**codebasics**
+  * [Youtube - codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
+  * [github - codebasics](https://github.com/codebasics/py)
+
+**SciPy**
+  * [Getting Started with TensorFlow and Deep Learning | SciPy 2018 Tutorial | Josh Gordon](https://www.youtube.com/watch?v=tYYVSEHq-io)
+
+**Books**
+  * [An Introduction to Statistical Learning - Video, pdf, slides](https://www-bcf.usc.edu/~gareth/ISL/)
+  * [The Hundred-Page Machine Learning Book - Andriy Burkov](http://themlbook.com/)
+  * [Neural Networks and Deep Learning - Michael Nielsen - html](http://neuralnetworksanddeeplearning.com/index.html)
+  * [Neural Networks and Deep Learning - Michael Nielsen - pdf](http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf)
+  * [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+  * [Pattern Recognition and Machine Learning (Information Science and Statistics) -  Christopher M. Bishop](https://www.amazon.in/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+  * [Deep Learning with python - Francois Chollet](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=cm_cr_arp_d_product_top?ie=UTF8)
+  * [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)
+        
+### Articles/Blogs/Tutorials/github
+ - [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+ - [machinelearningmastery - start-here](https://machinelearningmastery.com/start-here/)
+ - [Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials - TarrySingh](https://github.com/jyotiprasadpal/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials)
+ - [How to Learn Machine Learning, The Self-Starter Way in 90 Days? June, 2019](https://favouriteblog.com/learn-machine-learning/)
+ - [How to Learn Machine Learning - The Self-Starter Way](https://elitedatascience.com/learn-machine-learning)
+ - [Machine Learning Tutorials - Chun's](https://chunml.github.io/tutorials/)
+ - [UCI Machine Learning datasets](https://archive.ics.uci.edu/ml/datasets.php)
+ - [github: uci-machine-learning](https://github.com/topics/uci-machine-learning)
+ - [github: Machine learning sample projects](https://github.com/saife245/MACHINE-LEARNING-PROJECTS)
+ - [Commonly used Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
+ - [The best resources for Deep Learning from beginner to advance](https://www.kaggle.com/getting-started/37999)
+ - [SOME RESOURCES FOR GRAPHICAL MODELS](http://thegrandjanitor.com/2017/07/14/some-resources-for-graphical-models/)
+ - [Keep it simple! How to understand Gradient Descent algorithm](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
+ - [Machine Learning - Gradient Descent](https://www.codeproject.com/Articles/1196024/Machine-Learning-Gradient-Descent)
+ - [developers.google.com - machine-learning](https://developers.google.com/machine-learning/crash-course/)
+
+### Data analysis
+ - [Example - data analysis of iris data set](https://www.kaggle.com/danalexandru/simple-analysis-of-iris-dataset)
+ - [Data Visualization for Beginners-Part 3](https://www.hackerearth.com/blog/developers/data-visualization-for-beginners-part-3/)
+
+### Metrics:
+ - [How To Compare Machine Learning Algorithms in Python with scikit-learn](https://machinelearningmastery.com/metrics-evaluate-machine-learning-algorithms-python/)
+ - [Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+ - [Assessing and Comparing Classifier Performance with ROC Curves](https://machinelearningmastery.com/assessing-comparing-classifier-performance-roc-curves-2/)
+
+### Practice links
+
+ - [repl.it](https://repl.it/@jyotiprasadpal)

@@ -47,7 +47,9 @@ Resources demonstrating pandas functionality.
 
 Resources demonstrating matplotlib functionality.
 
-| Link | Description |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [matplotlib](http://nbviewer.ipython.org/github/TarrySingh/Machine-Learning-Tutorials/blob/master/matplotlib/matplotlib.ipynb) | Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms. |
+| Link | Content Type | Description |
+|-----------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Anatomy of Matplotlib (Beginner Level) | SciPy 2018 Tutorial | Benjamin Root & Hannah Aizenman](https://www.youtube.com/watch?v=6gdNUDs6QPc&t=2608s)|Video||
+| [Anatomy of Matplotlib -- tutorial developed for the SciPy conference](https://github.com/matplotlib/AnatomyOfMatplotlib)|Github||
+| [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)|Github||
 

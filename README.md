@@ -48,20 +48,17 @@ Resources demonstrating pandas functionality.
 | [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) | pdf |
 | [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) | Github |
 
-## matplotlib
+## Data visualization - matplotlib, pandas, seaborn
 
-Resources demonstrating matplotlib functionality.
+Resources demonstrating matplotlib, pandas seaborn data visualization techniques.
 
 | Link <img width=350/> | Content Type <img width=50/> |
 |-----------------------------------------------------------------|---------------------------------------------------------------|
 | [Anatomy of Matplotlib (Beginner Level)  SciPy 2018 Tutorial  Benjamin Root & Hannah Aizenman](https://www.youtube.com/watch?v=6gdNUDs6QPc&t=2608s)|Video|
 | [Anatomy of Matplotlib -- tutorial developed for the SciPy conference](https://github.com/matplotlib/AnatomyOfMatplotlib)|Github|
 | [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)|Github|
-
-## seaborn
-
-  * [Stephen Elston - Data Visualization and Exploration with Python](https://www.youtube.com/watch?v=KvZ2KSxlWBY&t=661s)
-  * [Stephen Elston - Data Visualization and Exploration with Python](https://github.com/StephenElston/ExploringDataWithPython)
+| [Stephen Elston - Data Visualization and Exploration with Python](https://www.youtube.com/watch?v=KvZ2KSxlWBY&t=661s)|Video|
+| [Stephen Elston - Data Visualization and Exploration with Python](https://github.com/StephenElston/ExploringDataWithPython)|Github|
 
 ### Machine learning
 

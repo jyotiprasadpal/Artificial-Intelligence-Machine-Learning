@@ -20,11 +20,6 @@ Source of useful resources for Artificial Intelligence and Machine learning
  - [github - Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)
  - [nptel- Programming, Data Structures and Algorithms in Python](https://nptel.ac.in/courses/106106145/)
  - [pdf - Python For Data Science Cheat Sheet](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
- 
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/numpy.png">
-</p>
 
 ## numpy
 
@@ -41,11 +36,6 @@ Resources demonstrating NumPy functionality.
 | [100 numpy exercises](https://github.com/rougier/numpy-100) | Github |
 | [NumPy Exercises, Practice, Solution](https://www.w3resource.com/python-exercises/numpy/index.php) |  |
 
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/pandas.png">
-</p>
-
 ## pandas
 
 Resources demonstrating pandas functionality.
@@ -58,11 +48,6 @@ Resources demonstrating pandas functionality.
 | [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) | pdf |
 | [Pandas Exercises](https://github.com/guipsamora/pandas_exercises) | Github |
 
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/matplotlib.png">
-</p>
-
 ## matplotlib
 
 Resources demonstrating matplotlib functionality.
@@ -72,6 +57,11 @@ Resources demonstrating matplotlib functionality.
 | [Anatomy of Matplotlib (Beginner Level)  SciPy 2018 Tutorial  Benjamin Root & Hannah Aizenman](https://www.youtube.com/watch?v=6gdNUDs6QPc&t=2608s)|Video|
 | [Anatomy of Matplotlib -- tutorial developed for the SciPy conference](https://github.com/matplotlib/AnatomyOfMatplotlib)|Github|
 | [Matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)|Github|
+
+## seaborn
+
+  * [Stephen Elston - Data Visualization and Exploration with Python](https://www.youtube.com/watch?v=KvZ2KSxlWBY&t=661s)
+  * [Stephen Elston - Data Visualization and Exploration with Python](https://github.com/StephenElston/ExploringDataWithPython)
 
 ### Machine learning
 

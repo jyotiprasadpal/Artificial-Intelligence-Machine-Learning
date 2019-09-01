@@ -60,6 +60,21 @@ Resources demonstrating matplotlib, pandas seaborn data visualization techniques
 | [Stephen Elston - Data Visualization and Exploration with Python](https://www.youtube.com/watch?v=KvZ2KSxlWBY&t=661s)|Video|
 | [Stephen Elston - Data Visualization and Exploration with Python](https://github.com/StephenElston/ExploringDataWithPython)|Github|
 
+## Predictive Analytics
+
+Resources demonstrating predictive analytics.
+
+| Link <img width=350*/> | Description <img width=50/> |
+|-----------------------------------------------------------------|---------------------------------------------------------------|
+| [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4](https://www.youtube.com/watch?v=Iq9DzN6mvYA)|Video|
+| [Statistics in Python  EuroSciPy 2015  Gaël Varoquaux](https://www.youtube.com/watch?v=yaSgoGLXKOg&t=2779s)|Video|
+| [Hypothesis Testing with SciPy - Hillary Green-Lerman](https://www.youtube.com/watch?v=dPXBN8ms-cU)|Video|
+| [Hypothesis Testing with SciPy - Hillary Green-Lerman](https://drive.google.com/file/d/1QLUjutIaDBNd8q_PDlOQdWzRV0tFCVSq/view)|Slides|
+| [Hypothesis Test](https://medium.com/@kangeugine/hypothesis-test-21795f788f7d)|Article|
+| [Hypothesis Testing with SciPy - Hillary Green-Lerman](https://www.youtube.com/watch?v=dPXBN8ms-cU)|Video|
+| [Hypothesis testing in Machine learning using Python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce)|Article|
+| [Computational Statistics  SciPy 2017 Tutorial  Allen Downey](https://www.youtube.com/watch?v=He9MCbs1wgE)|Video|
+
 ### Machine learning
 
 **Machine Learning - Andrew Ng**

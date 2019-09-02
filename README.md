@@ -68,6 +68,7 @@ Resources demonstrating predictive analytics.
 |-----------------------------------------------------------------|---------------------------------------------------------------|
 | [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4](https://www.youtube.com/watch?v=Iq9DzN6mvYA)|Video|
 | [Statistics in Python  EuroSciPy 2015  Gaël Varoquaux](https://www.youtube.com/watch?v=yaSgoGLXKOg&t=2779s)|Video|
+| [Statistics in Python  EuroSciPy 2015  Gaël Varoquaux](http://gael-varoquaux.info/stats_in_python_tutorial/)|Article|
 | [Hypothesis Testing with SciPy - Hillary Green-Lerman](https://www.youtube.com/watch?v=dPXBN8ms-cU)|Video|
 | [Hypothesis Testing with SciPy - Hillary Green-Lerman](https://drive.google.com/file/d/1QLUjutIaDBNd8q_PDlOQdWzRV0tFCVSq/view)|Slides|
 | [Hypothesis Test](https://medium.com/@kangeugine/hypothesis-test-21795f788f7d)|Article|

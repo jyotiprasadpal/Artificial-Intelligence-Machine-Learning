@@ -66,6 +66,9 @@ Resources demonstrating predictive analytics.
 
 | Link <img width=350*/> | Description <img width=50/> |
 |-----------------------------------------------------------------|---------------------------------------------------------------|
+| [Brandon Foltz](https://www.youtube.com/channel/UCFrjdcImgcQVyFbK04MBEhA)|Video|
+| [A Gentle Introduction to Normality Tests in Python](https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/)|Article|
+| [Ways to Detect and Remove the Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)|Article|
 | [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4](https://www.youtube.com/watch?v=Iq9DzN6mvYA)|Video|
 | [Statistics in Python  EuroSciPy 2015  Gaël Varoquaux](https://www.youtube.com/watch?v=yaSgoGLXKOg&t=2779s)|Video|
 | [Statistics in Python  EuroSciPy 2015  Gaël Varoquaux](http://gael-varoquaux.info/stats_in_python_tutorial/)|Article|

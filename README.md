@@ -102,8 +102,9 @@ Resources demonstrating predictive analytics.
   * [Youtube - codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ)
   * [github - codebasics](https://github.com/codebasics/py)
 
-**SciPy**
+**SciPy & PyData**
   * [Getting Started with TensorFlow and Deep Learning | SciPy 2018 Tutorial | Josh Gordon](https://www.youtube.com/watch?v=tYYVSEHq-io)
+  * [Vishal Patel | A Practical Guide to Dimensionality Reduction Techniques](https://www.youtube.com/watch?v=ioXKxulmwVQ)
 
 **Books**
   * [An Introduction to Statistical Learning - Video, pdf, slides](https://www-bcf.usc.edu/~gareth/ISL/)

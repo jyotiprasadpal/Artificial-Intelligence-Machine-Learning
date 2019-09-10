@@ -135,6 +135,9 @@ Resources demonstrating predictive analytics.
  - [Keep it simple! How to understand Gradient Descent algorithm](https://www.kdnuggets.com/2017/04/simple-understand-gradient-descent-algorithm.html)
  - [Machine Learning - Gradient Descent](https://www.codeproject.com/Articles/1196024/Machine-Learning-Gradient-Descent)
  - [developers.google.com - machine-learning](https://developers.google.com/machine-learning/crash-course/)
+ - [Cross Validation done wrong - alfredo](https://www.alfredo.motta.name/cross-validation-done-wrong/)
+ - [Cross-Validation Gone Wrong](https://betatim.github.io/posts/cross-validation-gone-wrong/)
+ - [Cross validation the right and wrong way](https://medium.com/@williamhaarder/cross-validation-the-right-and-wrong-way-589b8c9cc2c6)
 
 ### Data analysis
  - [Example - data analysis of iris data set](https://www.kaggle.com/danalexandru/simple-analysis-of-iris-dataset)

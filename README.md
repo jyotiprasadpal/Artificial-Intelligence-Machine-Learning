@@ -114,7 +114,7 @@ Resources demonstrating predictive analytics.
   * [The Hundred-Page Machine Learning Book - Andriy Burkov](http://themlbook.com/)
   * [Neural Networks and Deep Learning - Michael Nielsen - html](http://neuralnetworksanddeeplearning.com/index.html)
   * [Neural Networks and Deep Learning - Michael Nielsen - pdf](http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf)
-  * [Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)
+  * [Hands-on Machine Learning with Scikit-Learn and TensorFlow, 2nd edition by Aurelien Geron](https://github.com/ageron/handson-ml2)
   * [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2 - by Sebastian Raschka (Author), Vahid Mirjalili (Author)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
   * [Hands-On Deep Learning Algorithms with Python: Master deep learning algorithms with extensive math by implementing them using TensorFlow - by Sudharsan Ravichandiran](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python)
   * [Deep Learning with python - Francois Chollet](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=cm_cr_arp_d_product_top?ie=UTF8)

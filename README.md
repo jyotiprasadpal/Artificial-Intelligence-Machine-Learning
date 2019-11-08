@@ -120,6 +120,7 @@ Resources demonstrating predictive analytics.
   * [Deep Learning with python - Francois Chollet](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=cm_cr_arp_d_product_top?ie=UTF8)
   * [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
   * [Pattern Recognition and Machine Learning (Information Science and Statistics) -  Christopher M. Bishop](https://www.amazon.in/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
+  * [Study E-Book(ComputerVision DeepLearning MachineLearning Math NLP Python ReinforcementLearning)](https://github.com/changwookjun/StudyBook)
        
 ### Articles/Blogs/Tutorials/github
  - [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)

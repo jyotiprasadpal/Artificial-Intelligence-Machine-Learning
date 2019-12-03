@@ -79,6 +79,18 @@ Resources demonstrating predictive analytics.
 | [Hypothesis testing in Machine learning using Python](https://towardsdatascience.com/hypothesis-testing-in-machine-learning-using-python-a0dc89e169ce)|Article|
 | [Computational Statistics  SciPy 2017 Tutorial  Allen Downey](https://www.youtube.com/watch?v=He9MCbs1wgE)|Video|
 
+## Probabilistic Graphical Models (PGMs)
+
+Resources demonstrating graphical models.
+
+| Link <img width=350*/> | Description <img width=50/> |
+|-----------------------------------------------------------------|---------------------------------------------------------------|
+| [Probabilistic Graphical Models Specialization - courseera](https://www.coursera.org/specializations/probabilistic-graphical-models)|Video|
+| [Machine Learning and Probabilistic Graphical Models](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)|Video|
+| [pgmpy_notebook - Ankur Ankan](https://github.com/pgmpy/pgmpy_notebook/tree/master/notebooks)|GitHub|
+| [Probabilistic Graphical Models Tutorial — Part 1](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189)|Article|
+| [Probabilistic Graphical Models Tutorial — Part 2](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-d855ba0107d1)|Article|
+
 ### Machine learning
 
 **Machine Learning - Andrew Ng**

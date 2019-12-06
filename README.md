@@ -87,6 +87,7 @@ Resources demonstrating graphical models.
 |-----------------------------------------------------------------|---------------------------------------------------------------|
 | [Probabilistic Graphical Models Specialization - courseera](https://www.coursera.org/specializations/probabilistic-graphical-models)|Video|
 | [Machine Learning and Probabilistic Graphical Models](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)|Video|
+| [https://ermongroup.github.io/cs228-notes/](https://ermongroup.github.io/cs228-notes/)|GitHub|
 | [pgmpy_notebook - Ankur Ankan](https://github.com/pgmpy/pgmpy_notebook/tree/master/notebooks)|GitHub|
 | [Probabilistic Graphical Models Tutorial — Part 1](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189)|Article|
 | [Probabilistic Graphical Models Tutorial — Part 2](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-d855ba0107d1)|Article|

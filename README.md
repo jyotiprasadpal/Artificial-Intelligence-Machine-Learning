@@ -92,6 +92,25 @@ Resources demonstrating graphical models.
 | [Probabilistic Graphical Models Tutorial — Part 1](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189)|Article|
 | [Probabilistic Graphical Models Tutorial — Part 2](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-d855ba0107d1)|Article|
 
+### Deep Learning
+
+Please find below the recordings of AI/Deep Learning from another batch:
+
+1.https://edureka.wistia.com/medias/d9d5xgdh0l
+2.https://edureka.wistia.com/medias/kupwzfwl89
+3.https://edureka.wistia.com/medias/unbh3k2bxf
+4.https://edureka.wistia.com/medias/oz5u3ucnh5
+5.https://edureka.wistia.com/medias/4j063dxf7n
+6.https://edureka.wistia.com/medias/fj9ao9r0q6
+7.https://edureka.wistia.com/medias/4nt9palc8f
+8.https://edureka.wistia.com/medias/q7mzdn7067
+9.https://edureka.wistia.com/medias/d4blijr2t9
+10.https://edureka.wistia.com/medias/7tgx8n09z9
+11.https://edureka.wistia.com/medias/2u9y2yi22d
+12.https://edureka.wistia.com/medias/5ebp04jwx6
+13.https://edureka.wistia.com/medias/tjkwybu70e
+14.https://edureka.wistia.com/medias/kecw2p9lcf
+
 ### Machine learning
 
 **Machine Learning - Andrew Ng**

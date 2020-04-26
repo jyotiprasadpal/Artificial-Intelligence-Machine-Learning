@@ -96,14 +96,14 @@ Resources demonstrating graphical models.
 
 Please find below the recordings of AI/Deep Learning from another batch:
 
-- [1.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/d9d5xgdh0l)
+- [Edureka Video - Getting started with neural networks](https://edureka.wistia.com/medias/d9d5xgdh0l)
 - [2.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/kupwzfwl89)
 - [3.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/unbh3k2bxf)
 - [4.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/oz5u3ucnh5)
-- [5.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/4j063dxf7n)
-- [6.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/fj9ao9r0q6)
-- [7.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/4nt9palc8f)
-- [8.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/q7mzdn7067)
+- [Edureka Video - Deep Learning for computer vision:Convolutional Neural Network(CNN) - Part 1](https://edureka.wistia.com/medias/4j063dxf7n)
+- [Edureka Video - Deep Learning for computer vision:Convolutional Neural Network(CNN) - Part 2](https://edureka.wistia.com/medias/fj9ao9r0q6)
+- [Edureka Video - Deep Learning for texts and sequences:Recurrent Neural Network (RNN), LSTM & GRU- Part 1](https://edureka.wistia.com/medias/4nt9palc8f)
+- [Edureka Video - Deep Learning for texts and sequences:Recurrent Neural Network (RNN) & LSTM & GRU - Part 2](https://edureka.wistia.com/medias/q7mzdn7067)
 - [9.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/d4blijr2t9)
 - [10.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/7tgx8n09z9)
 - [11.Edureka Video - Deep Learning](https://edureka.wistia.com/medias/2u9y2yi22d)
